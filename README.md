@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Syahir</h1>
 <h3 align="center">I'm a Malaysian full-stack developer (inshallah) focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsyahir&label=Profile%20views&color=0e75b6&style=flat" alt="adsyahir" /> </p>
 
 - 🌱 I’m currently learning **Laraev**

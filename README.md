@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsyahir&label=Profile%20views&color=0e75b6&style=flat" alt="adsyahir" /> </p>
 
-- 🌱 I’m currently learning **Laraev**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [http://www.adsyahir.co/portfolio](http://www.adsyahir.co/portfolio)
 

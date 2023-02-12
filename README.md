@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Syahir</h1>
-<h3 align="center">I'm a Malaysian full-stack developer (inshallah) focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.</h3>
+<h3 align="center">I'm a Malaysian software developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adsyahir&label=Profile%20views&color=0e75b6&style=flat" alt="adsyahir" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://www.adsyahir.co/portfolio](http://www.adsyahir.co/portfolio)
 
-- 💬 Ask me about **ReactJS & React Native**
+- 💬 Ask me about **ReactJS, React Native & Laravel**
 
 - 📫 How to reach me **adsyahir16@gmail.com**
 
